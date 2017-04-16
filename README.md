@@ -17,5 +17,5 @@ The sales predictions are done using Sklearn and python notebook. Weka is used t
   
   ---
   
-  ##### Cheers
+Cheers
   
